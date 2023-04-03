@@ -1,0 +1,70 @@
+body{
+    color: black;
+    background-color: rgba(87, 108, 201,1);
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.title{
+    color: rgba(26, 179, 5,1);
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    background-image: url(sea1.jpg);
+    color: black;
+    padding: 15px;
+}
+
+.survey-form{
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+}
+
+.row-tab{
+    display: block;
+    padding-bottom: 20px;
+}
+
+.label-tab{
+    display: inline-block;
+    width: 44%;
+    text-align: right;
+    vertical-align: top;
+}
+
+.input-tab{
+    display: inline-block;
+    width: 54%;
+    text-align:left;
+}
+
+.select-tab{
+    display: inline-block;
+    width: 54%; 
+    text-align: left;
+}
+
+
+.select-box{
+    padding: 5px 0;
+}
+
+.foot{
+    background-color: black;
+    color: antiquewhite;
+    text-align: right;
+}
+
+.para-1{
+    color: antiquewhite;
+}
+
